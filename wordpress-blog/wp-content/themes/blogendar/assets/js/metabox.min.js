@@ -1,0 +1,1 @@
+jQuery(document).ready(function () { jQuery("#blogendar-ui-tabs").tabs() });
